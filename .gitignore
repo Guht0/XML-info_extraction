@@ -1,0 +1,12 @@
+# Ignorar a venv inteira
+.venv/
+
+# Ignorar arquivos xml
+*.xml
+
+# Ignorar arquivos excel
+*.xlsx
+
+# Arquivos temporários
+*.pyc
+__pycache__/
